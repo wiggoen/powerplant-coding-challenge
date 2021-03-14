@@ -9,6 +9,7 @@ $ git clone https://github.com/wiggoen/powerplant-coding-challenge.git
 
 # REST API
 REST: REpresentational State Transfer
+
 API: Application Programming Interface
 
 # Flask
