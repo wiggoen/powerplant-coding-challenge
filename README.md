@@ -41,7 +41,7 @@ In a new terminal:
 ```
 $ cd powerplant-coding-challenge
 Format of CURL request
-$ curl --request POST --header "Content-Type: application/json" --data "path/to/filename.json" http://localhost:port
+$ curl --request POST --header "Content-Type: application/json" --data "@path/to/filename.json" http://localhost:port
 
 -X or --request
 -H or --header
