@@ -42,6 +42,8 @@ def calculate_production(load, stations):
   # Implementation of how to calculate production.
   # Solving a multi-dimensional root problem.
 
+  # WORK IN PROGRESS!!!
+
   production = []
 
   for powerstations in stations:
