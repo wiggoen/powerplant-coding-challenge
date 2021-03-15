@@ -12,6 +12,8 @@ REST: REpresentational State Transfer
 
 API: Application Programming Interface
 
+JSON: JavaScript Object Notation
+
 # Flask
 [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
